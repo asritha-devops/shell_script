@@ -1,3 +1,5 @@
+#!/bin/bash
+
 PERSON1=Akhil
 PERSON2=Abhi
 echo "$PERSON1: Hi, How are you ${PERSON2}"

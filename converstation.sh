@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "asritha: Hi siri"
 echo "siri: hi asritha"
 echo "asritha: how are you"
